@@ -1,6 +1,5 @@
 #Question 1. 
 
-washington <- read.csv("washington.csv")
 
 t.test(washington$totchi, mu=2.5)
 
