@@ -1,4 +1,4 @@
-document.querySelector("#tltbt > div.Nl > div.Ll.d.xq.ef.sm.um").remove();document.querySelector("#tl_ > div.wf > div > form > div.Zj > input").setAttribute('disabled', 'disabled');
+document.querySelector("#tltbt > div.Nl > div.Ll.d.xq.ef.sm.um").remove();document.querySelector("#tl_ > div.wf > div > form > div.Zj > input").setAttribute('hidden', 'hidden');
 
 
 
