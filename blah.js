@@ -2,6 +2,7 @@ document.querySelector("#tltbt > div.Nl").remove();
 document.querySelector("#tl_ > div.wf > div > form > div.Zj > input").setAttribute('hidden', 'hidden');
 document.querySelector("#tl_ > div.wf > div > form > div.bb.Vj.Xj.Wj").setAttribute('hidden', 'hidden');
 document.querySelector("#tl_ > div.wf > div > form.bg").style.height = "0px";
+document.querySelector("#tltbt > div.wm > div > div").color = "#f1f1f1";
 
 
 /* document.querySelector("#tl_ > div.wf > div > form").remove();
